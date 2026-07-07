@@ -105,8 +105,10 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 **Simran**
 
 - Diploma in Computer Engineering
-- GitHub: https://github.com/YourGitHubUsername
-- LinkedIn: https://linkedin.com/in/YourLinkedInUsername
+- GitHub: https://github.com/simransimran20704-cloud
+- LinkedIn: https://www.linkedin.com/in/simran-simran-6480ab306?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+---
 
 ---
 
