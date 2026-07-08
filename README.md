@@ -35,11 +35,23 @@ The following analyses were performed:
 - Missing Value Analysis
 - Duplicate Value Check
 - Statistical Summary
+- Lineplot
+- Relplot
+- Histoplot
+- Catplot
+- Regplot
+- Jointplot
+- Hexbin
+- Kdeplot
+- Box Plot
+- Histplot
+- Rugplot
+- Scatter_matrix
 - Correlation Heatmap
 - Pairplot
-- Scatter Plot
-- Distribution Plot
-- Box Plot
+  
+  
+  
 
 ---
 
